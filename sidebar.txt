@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[tsp:home|Door43 (tsp)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-tsp|d43-tsp repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-tsp/archive/master.zip|d43-tsp.zip]]
+
+**Recent Changes**
+{{changes>ns = tsp}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/tsp|Ethnologue data]]
+
